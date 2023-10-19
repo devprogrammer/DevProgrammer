@@ -5,3 +5,4 @@ I am a Full Stack Web & Mobile and blockchain Developer with over 10 years of ex
 
 💻 Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
+<a href="[URL_REDIRECT](https://icons8.com/icons/set/javascript)" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://icons8.com/icon/tGvHBPJaKqEd/javascript)https://icons8.com/icon/tGvHBPJaKqEd/javascript" height="100" /></a>
