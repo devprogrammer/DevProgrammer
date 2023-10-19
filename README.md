@@ -1,4 +1,5 @@
 ### Hi there 👋
+### <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=ADD_THEME_HERE" width="400">
 <a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://icons8.com/icons/set/javascript)" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://icons8.com/icons/set/typescript)" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://icons8.com/icons/set/python)" height="100" /></a>
