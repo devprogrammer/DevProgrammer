@@ -1,23 +1,23 @@
-### Hi there 👋
-### <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=ADD_THEME_HERE" width="400">
-### <a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://icons8.com/icons/set/javascript)" height="100" /></a>
-### <a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://icons8.com/icons/set/typescript)" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://icons8.com/icons/set/python)" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://icons8.com/icons/set/javascript)" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://icons8.com/icons/set/javascript)" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://icons8.com/icons/set/javascript)" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://icons8.com/icons/set/javascript)" height="100" /></a>
-<!--
-**devprogrammer/DevProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings! I am Nikkhiel Seath :)
+I am a Software Engineer 💻, Open Source Enthusiast, Linux Explorer 🐧 and a human 👨.
 
+🧰 I have been shaping the web, professionally, for 4 years.
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 OS: Arch Linux (with i3wm as the window manager)
+🗒️ Text Editor: NeoVim
+❓ Why do I use VIM? Here is the answer.
+📚 I am a Voracious Reader. I like to collect inspiring quotes and extracts from the books that I read.
+
+My Presence on the World Wide Web
+Personal Website
+@YouTube
+@email
+@twitter
+@LinkedIn
+Quote
+Men must be taught as if you taught them not
+And things unknown proposed as things forgot.
+Recommended Reads
+The Richest Man in Babylon by George S. Clason.
+The Subtle Art of Not Giving a F*ck by Mark Manson.
+How to Win Friends and Influence People by Dale Carnegie.
