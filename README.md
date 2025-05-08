@@ -54,21 +54,3 @@ Also have ability to identify the problems, brainstorm and analyze answers and i
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
-# 📱 Contact
-
-###
-
-<div align="left">
-  <a href="mailto:devprogrammer22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat"  alt="gmail logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" alt="discord logo"  />
-  </a>
-  <a href="hhttps://stackoverflow.com/users/20315389/highdevwizards" target="_blank">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/t/flat" alt="stackoverflow logo"  />
-  </a> 
-</div>
-
-###
